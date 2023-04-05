@@ -1,0 +1,18 @@
+#nav_bar{
+
+    border: solid;
+}
+ul{
+ list-style: none;   
+
+}
+li{
+    float: left;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.Auth-form-container{
+  margin-top: 80px;
+    width: 30%;
+    margin-left: 35%;
+}
